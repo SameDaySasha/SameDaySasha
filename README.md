@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning C++
 ### 👯 I’m looking to collaborate on application development 
 ### 🤔 I’m looking for help with data structures & algorithms
-### 💬 Ask me about Egypt during the bronze age collapse period
+### 💬 Ask me about my spare hobbies -- exploring space!
 ### 📫 How to reach me: alexflorea123@gmail.com
 ### 💼 Portfolio Site: https://www.samedaysasha.com/
 ### 😄 Pronouns: he/him
