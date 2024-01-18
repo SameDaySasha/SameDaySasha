@@ -9,5 +9,5 @@
 ### 📫 How to reach me: alexflorea123@gmail.com
 ### 💼 Portfolio Site: https://www.samedaysasha.com/
 ### 😄 Pronouns: he/him
- ⚡ Fun fact: Computer bugs were originally real bugs that would get caught in mechanical machinery!
+### ⚡ Fun fact: Computer bugs were originally real bugs that would get caught in mechanical machinery!
 
